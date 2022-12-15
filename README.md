@@ -1,6 +1,5 @@
 - 👋 Hi, I’m William
-- 👀 I’m interested in mechatroinics, aerospace engineering, physics, quantum computers, game design, and animation 
-- 🌱 I’m currently learning autodesk inventor, arduino, robotics, and rockets 
+- 👀 I’m interested in engineering, physics, and game design  
 - 📫 How to reach me: email is the quickest way to contact me at williammurillo20@augustana.edu
 
 <!---
